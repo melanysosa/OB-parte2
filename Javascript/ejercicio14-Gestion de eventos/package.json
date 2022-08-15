@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio14-gestion-de-eventos",
+  "version": "1.0.0",
+  "main": "node index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
